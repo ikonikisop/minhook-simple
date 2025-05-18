@@ -4,7 +4,7 @@ This repository provides a **Visual Studio solution (`.sln`)** for compiling [Mi
 
 ## Why this solution?
 
-- Official MinHook builds use **CMake** or **Makefiles**.
+- Official MinHook builds use **CMake** or **Makefiles**. (Which still does generate VS Solutions)
 - This project offers a native Visual Studio solution to compile MinHook directly, simplifying setup for Visual Studio users.
 - No need to install or configure CMake or other build tools.
 - Easy to integrate into existing Visual Studio workflows and projects.
